@@ -1,0 +1,76 @@
+
+#two {
+    background-image: url(../images/gelogo.jpeg);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   
+}
+    
+
+#one
+    {
+    width: 200px;
+    border-radius: 75px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    
+
+    }
+
+.item
+ {   color: black;
+    font-size: xx-large;
+    text-align: center; 
+    display: block;
+    margin-top: 5px;
+   
+}
+
+.bio {
+    font-size: 150%;
+    margin-left: 15px;
+    background-color: grey;
+    border-radius: 12px;
+    padding: 5px;
+    margin: 32px;
+
+}
+
+#three {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 5px;
+    border: green double;
+    background-color: rgb(192, 192, 192);
+
+}
+
+.bar {
+    background-color: grey;
+    border-radius: 12px;
+    margin: 15px;
+    padding: 5px;
+}
+
+.sub {
+    padding: 5px;
+    background-color:grey;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.input {
+    margin: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.four {
+    border: green double;
+    background-image: -moz-linear-gradient();
+   
+}
